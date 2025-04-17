@@ -53,7 +53,7 @@ const Home = () => {
           <br /> Simply Better<span className="lightgray">.</span>
         </div>
         <div className="head2">
-          Zylaro{" "}
+          The Home Store{" "}
           <span className="lightgray">
             is a Home decor marketplace based in India. <br />
             Est since 2019.{" "}
@@ -156,7 +156,7 @@ const Home = () => {
               <span className="green">Z</span>ylaro.
             </h3>
             <p>
-              Zylaro is your go-to marketplace for elegant and unique home
+              The Home Store is your go-to marketplace for elegant and unique home
               decor. Established in 2019, we are committed to providing premium
               products to elevate your living spaces.
             </p>
@@ -180,9 +180,9 @@ const Home = () => {
           </div>
           <div className="footer-contact">
             <h3>Contact Us</h3>
-            <p>Email: support@zylaro.com</p>
+            <p>Email: support@thehomestore.com</p>
             <p>Phone: +91-123-456-7890</p>
-            <p>Address: 123 Zylaro Street, New Delhi, India</p>
+            <p>Address: 123 Street, New Delhi, India</p>
           </div>
 
           <div className="footer-social">
@@ -213,7 +213,7 @@ const Home = () => {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>Copyright © 2023 Zylaro. All rights reserved.</p>
+          <p>Copyright © 2023 The Home Store. All rights reserved.</p>
         </div>
       </footer>
     </div>

@@ -82,8 +82,9 @@ const NavHeader = ({ user }: PropsType) => {
       <div className="nav-header__top">
         <div className="nav-header__logo">
           <NavLink onClick={closeDrawer} to="/">
-            Z<span style={{ color: "var(--black-100)" }}>ylaro</span>
-            <span style={{ color: "var(--black-40)" }}>.</span>
+            <span style={{ color: "var(--black-100)" }}>The</span>
+            Home
+            <span style={{ color: "var(--black-40)" }}>Store</span>
           </NavLink>
         </div>
         <div className="link-icons">

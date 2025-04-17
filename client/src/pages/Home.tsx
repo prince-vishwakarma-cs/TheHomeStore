@@ -153,7 +153,8 @@ const Home = () => {
         <div className="footer-container">
           <div className="footer-about">
             <h3>
-              <span className="green">Z</span>ylaro.
+              The
+              <span className="green">Home</span>Store
             </h3>
             <p>
               The Home Store is your go-to marketplace for elegant and unique home
